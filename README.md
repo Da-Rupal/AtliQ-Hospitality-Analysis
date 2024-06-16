@@ -5,7 +5,7 @@ Dive into a dynamic world where data meets hospitality. This project harnesses t
 ## Project Structure
 1. DATA IMPORT: First I Gathered data from UNIFIED mENTORS and imported it into Power BI for data transformation.
 2. DATA TRANSFORMATION: Used Power Query to clean the data, removed nulls and duplicates, and fine-tuned data types.
-3. DATA LOADING AND MODELLING: Imported the transformed data into Power View for analysis. After completing the necessary cleaning, and transformation, I create the necessary relationships between the tables. (I created a calendar table separately for my convenience and connected the two tables based on a column key).
+3. DATA LOADING AND MODELLING: Imported the transformed data into Power View for analysis. After completing the necessary cleaning, and transformation, I create the necessary relationships between the tables.
 4. DATA IMPLEMENTATION: I used different DAX functions to create calculated measures and columns, refining the data for deeper insights.
 5. REPORTS CREATION: First I designed a theme for my report from canva and then imported it to Power BI. After that, I Crafted a user-friendly report/dashboard that helps the organization make important decisions.
 
